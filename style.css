@@ -2,9 +2,8 @@ body {
     font-family: sans-serif;
 }
 
-.link-header {
-    color: white;
-    text-decoration: none;
+body {
+    font-family: sans-serif;
 }
 
 header {
@@ -24,4 +23,14 @@ header {
     border-radius: 5px;
     margin-left: -3px;
 }
+
+.link-header {
+    padding: 7px;
+    background-color: rgb(0, 3, 168);
+    color: white;
+    border-radius: 5px;
+    margin-left: -3px;
+}
+
+
 
